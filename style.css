@@ -40,6 +40,7 @@
 .hero_content p {
   width: 70%;
   font-size: large;
+  color: #666;
 }
 
 .hero_content button {
@@ -145,15 +146,38 @@
 }
 
 .reviews .card {
-  width: 27%;
+  width: 23%;
   margin: 3%;
   float: left;
+  padding: 2%;
+  border-radius: 10px;
+ border: solid 1px #bdc0c4;
 }
 
 .reviews .card img {
-  width: 15%;
-  border-radius: 30px;
-  margin-right: 5px;
   float: left;
+  width: 25%;
+  border-radius: 50%;
+  margin-top: 10px;
+  margin-right: 15px;
 }
 
+.profile h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+.profile p {
+  font-size: 14px;
+  color: #666;
+}
+
+.testimonial-text {
+            clear: both;
+            padding-top: 20px;
+            font-size: 15px;
+            line-height: 1.6;
+            color: #444;
+        }
