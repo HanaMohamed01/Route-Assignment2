@@ -2,15 +2,15 @@
   clear: both;
 }
 
-*{
+* {
   margin-bottom: 0;
 }
 
-body{
+body {
   margin: 0;
 }
 
-.container{
+.container {
   margin: auto;
   width: 70%;
 }
@@ -114,21 +114,22 @@ body{
 
 .more_benefits {
   width: 100%;
+  margin-bottom: 3%;
 }
 
 .more_benefits .image {
-  width:55%;
+  width: 50%;
 }
 
 .more_benefits img {
   width: 100%;
   float: left;
   border-radius: 15px;
-  margin-top: 70px;
+  margin-top: 30px;
 }
 
 .more_benefits .content {
-  width:35%;
+  width: 40%;
   float: left;
   margin: 20px;
   padding: 10px;
@@ -209,10 +210,15 @@ body{
   text-align: center;
 }
 
+.section {
+  margin-bottom: 2%;
+}
+
 .section .statistics h3 {
-  margin-bottom: 0;
+  margin: 2%;
   font-size: 24px;
 }
+
 .section .statistics p {
   margin-top: 0;
   color: #484b4e;
@@ -307,15 +313,14 @@ textarea {
   font-size: 17px;
 }
 
-.footer{
-  background-color: #0B1325 ;
+.footer {
+  background-color: #0b1325;
   color: white;
   width: 100%;
 }
 
-.footer .content{
+.footer .content {
 }
 
-.footer .copyright{
+.footer .copyright {
 }
-
