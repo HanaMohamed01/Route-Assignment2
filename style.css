@@ -7,7 +7,7 @@
 .benefit_cards,
 .icon {
   margin: auto;
-  width: 60%;
+  width: 70%;
 }
 
 .hero {
@@ -236,17 +236,17 @@
   width: 100%;
 }
 
-.membership-form .container .title {
+.membership-form .title {
   text-align: center;
   font-size: 17px;
 }
 
-.membership-form .container .title h2 {
+.membership-form .title h2 {
   width: 100%;
   font-size: 34px;
 }
 
-.membership-form .container .title p {
+.membership-form .title p {
   color: #4a5565;
   margin-bottom: 5%;
   font-size: 19px;
