@@ -27,8 +27,8 @@
 }
 
 .hero_image img {
-  width: 100%;
-  margin-top: 40px;
+  width: 120%;
+  margin-top: 30%;
   border-radius: 20px;
 }
 
@@ -107,22 +107,22 @@
 }
 
 .more_benefits {
-  width: 90%;
+  width: 100%;
 }
 
 .more_benefits .image {
-  width: 35%;
+  width:55%;
 }
 
 .more_benefits img {
-  width: 130%;
+  width: 100%;
   float: left;
   border-radius: 15px;
   margin-top: 70px;
 }
 
 .more_benefits .content {
-  width: 35%;
+  width:35%;
   float: left;
   margin: 20px;
   padding: 10px;
