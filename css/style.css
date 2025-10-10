@@ -316,7 +316,6 @@ textarea {
 .footer {
   background-color: #0b1325;
   color: white;
-  width: 100%;
 }
 
 .footer .content .fitcore,
@@ -325,11 +324,12 @@ textarea {
   float: left;
   padding: 10px;
   width: 26%;
-  margin-right: 40px;
+  margin-right: 30px;
 }
 
 .footer .content .fitcore a {
   margin-top: 40%;
+  margin-right: 7px;
 }
 
 .footer .quicklinks a {
@@ -356,7 +356,7 @@ hr {
   float: left;
   padding: 10px;
   width: 42%;
-  margin-right: 40px;
+  margin-right: 50px;
 }
 
 .footer .content .fitcore a {
