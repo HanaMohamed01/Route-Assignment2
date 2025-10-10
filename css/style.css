@@ -93,11 +93,18 @@ body {
 }
 
 .benefit_cards .card .icon {
+  width: 35px;
+  height: 35px;
+  background-color: black;
+  border-radius: 10px;
+  padding: 15px 0 0 15px;
+}
+
+.benefit_cards .card .icon .icon_circle {
   width: 20px;
   height: 20px;
-  background-color: white;
-  border: solid 10px #000000;
-  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 8px;
 }
 
 .bg_blue {
