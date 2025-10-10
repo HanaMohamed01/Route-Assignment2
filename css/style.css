@@ -32,8 +32,8 @@ body {
 }
 
 .hero_image img {
-  width: 100%;
-  margin-top: 10%;
+  width: 120%;
+  margin-top: 25%;
   border-radius: 20px;
 }
 
@@ -319,8 +319,51 @@ textarea {
   width: 100%;
 }
 
-.footer .content {
+.footer .content .fitcore,
+.quicklinks,
+.contactinfo {
+  float: left;
+  padding: 10px;
+  width: 26%;
+  margin-right: 40px;
 }
 
-.footer .copyright {
+.footer .content .fitcore a {
+  margin-top: 40%;
+}
+
+.footer .quicklinks a {
+  display: block;
+}
+
+.footer .content {
+  width: 100%;
+}
+
+.footer a {
+  margin: 10px;
+  text-decoration: none;
+}
+
+.footer p,
+a,
+hr {
+  color: #707b8d;
+}
+
+.copyright .rightsrecevied,
+.privacylinks {
+  float: left;
+  padding: 10px;
+  width: 42%;
+  margin-right: 40px;
+}
+
+.footer .content .fitcore a {
+  display: inline-block;
+  margin-top: 30%;
+}
+
+.copyright .privacylinks {
+  margin: 10px 0 0 50px;
 }
